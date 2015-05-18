@@ -1,0 +1,20 @@
+{
+    "author": {
+        "email": "fossi@iname.com",
+        "name": "Fossi",
+        "url": ""
+    },
+    "dependencies": {
+        "hashdest": "*"
+    },
+    "description": "example project",
+    "devDependencies": {
+        "gulp": "*"
+    },
+    "engines": {
+        "node": ">=0.8.0",
+        "npm": ">=1.2.10"
+    },
+    "name": "hashdest-example",
+    "version": "0.0.1"
+}
